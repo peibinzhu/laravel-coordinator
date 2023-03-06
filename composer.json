@@ -15,8 +15,7 @@
   ],
   "require": {
     "php": ">=8.0",
-    "peibin/laravel-contracts": "^1.0",
-    "peibin/laravel-utils": "^1.6"
+    "peibin/laravel-contracts": "^1.0"
   },
   "autoload": {
     "psr-4": {
