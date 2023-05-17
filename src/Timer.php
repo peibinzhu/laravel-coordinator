@@ -6,7 +6,7 @@ namespace PeibinLaravel\Coordinator;
 
 use Closure;
 use PeibinLaravel\Contracts\StdoutLoggerInterface;
-use Swoole\Coroutine;
+use PeibinLaravel\Coroutine\Coroutine;
 use Throwable;
 
 class Timer

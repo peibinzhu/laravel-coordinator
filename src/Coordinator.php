@@ -4,6 +4,8 @@ declare(strict_types=1);
 
 namespace PeibinLaravel\Coordinator;
 
+use PeibinLaravel\Engine\Channel;
+
 class Coordinator
 {
     private Channel $channel;
